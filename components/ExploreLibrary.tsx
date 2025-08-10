@@ -96,7 +96,7 @@ export default function ExploreLibrary() {
     <div className="w-full bg-card/70 backdrop-blur-sm border-b border-border">
       <div className="px-4 py-3 flex flex-col gap-3">
         <div className="flex items-center justify-between">
-          <h3 className="text-sm font-semibold tracking-tight">Community AI Apps</h3>
+          <h3 className="text-sm font-semibold tracking-tight">Workspace</h3>
           <div className="text-xs text-muted-foreground">Discover and open sandboxed apps</div>
         </div>
 
